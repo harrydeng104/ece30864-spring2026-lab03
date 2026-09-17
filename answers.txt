@@ -7,6 +7,15 @@
 
 (b) The role of the Scrum Master is to manage scrum-related tasks such as JIRA tooling, facilitating sprints and meetings. The role of the product owner is to set the direction for the team, handle releases, and manage stakeholders.
 
-(c) 
+(c) The 3 types of meetings that happen during a sprint cycle are:
+    1. Sprint planning meetings
+        a. What should be completed in the upcoming sprint should be discussed
+        b. Creation of stories, their story points and who they are assigned to should be discussed
+    2. Daily scrum/standup meetings
+        a. Work completed should be discussed
+        b. Blockers should be discussed
+    3. Sprint retrospective meetings
+        a. Completed work should be discussed
+        b. Incomplete work should be discussed and moved to the backlog
 
 (d)
