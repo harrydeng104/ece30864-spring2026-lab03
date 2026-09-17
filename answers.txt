@@ -18,4 +18,8 @@
         a. Completed work should be discussed
         b. Incomplete work should be discussed and moved to the backlog
 
-(d)
+(d) 
+    1. An epic is a large body of work that can be broken down into stories
+    2. A story is a software system requirement that is expressed in a few sentences
+    3. An issue is a unit of work that can be tracked through a workflow, Epics, Stories and Bugs are all examples of issues
+    4. A bug is the smallest unit of work and usually refers to a specific problem that occurred. It can be used to block another issue such as a story. 
