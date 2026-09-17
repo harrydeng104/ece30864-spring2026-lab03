@@ -4,3 +4,9 @@
     Two cons of Agile development are:
         1. Lack of predictability because planning is not fully completed at the beginning of the project
         2. Additional time spent planning sprints and coordinating during development
+
+(b)
+
+(c)
+
+(d)
